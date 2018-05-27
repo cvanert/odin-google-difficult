@@ -165,3 +165,59 @@ html, body {
 .result-preview p {
   margin: 0px;
 }
+
+.results-pages {
+  width: 520px;
+}
+
+.results-pages ul {
+  list-style-type: none;
+  margin: 10px 145px 10px 145px;
+  padding: 0;
+  float: left;
+}
+
+.results-pages li {
+  float: left;
+  display: block;
+}
+
+.results-pages li a {
+  display: block;
+  font-family: Arial;
+  font-size: 13px;
+  color: #4285f4;
+  text-align: center;
+  padding: 12px 5px;
+  text-decoration: none;
+}
+
+.google-footer {
+  clear: both;
+  height: 40px;
+  bottom: 0;
+  width: 100%;
+  color: #616A6B;
+  background-color: #F2F2F2;
+}
+
+.google-footer ul {
+  list-style-type: none;
+  margin: 0;
+  margin-left: 140px;
+  padding: 0;
+}
+
+.google-footer li {
+  float: left;
+}
+
+.google-footer li a {
+  display: block;
+  font-family: Arial;
+  font-size: 13px;
+  color: #404040;
+  text-align: center;
+  padding: 14px 16px 14px 0px;
+  text-decoration: none;
+}
