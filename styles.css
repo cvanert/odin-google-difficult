@@ -123,3 +123,12 @@ html, body {
   padding: 12px 14px;
   text-decoration: none;
 }
+
+.results-container {
+  width: 520px;
+  margin-left: 140px;
+}
+
+.results {
+  width: 520px;
+}
