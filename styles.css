@@ -132,3 +132,36 @@ html, body {
 .results {
   width: 520px;
 }
+
+.result {
+  height: 150px;
+  display: block;
+  margin: 15px 0px 0px 0px;
+}
+
+.result-info {
+  margin: 10px 0px 0px 0px;
+}
+
+.result-title {
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0px;
+}
+
+.result-url {
+  font-size: 14px;
+  line-height: 16px;
+  margin: 0px;
+}
+
+.result-preview {
+  font-size: 13px;
+  line-height: 18px;
+  margin: 5px 0px 0px 0px;
+  padding-bottom: 20px;
+}
+
+.result-preview p {
+  margin: 0px;
+}
