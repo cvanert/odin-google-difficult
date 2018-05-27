@@ -1,0 +1,125 @@
+html, body {
+  font-family: Arial, sans-serif;
+  position: relative;
+  padding: 0;
+}
+
+.google-search-navbar {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+}
+
+.search-navbar-top {
+  height: 45px;
+  display: block;
+  overflow: hidden;
+}
+
+.logo {
+  width: 95px;
+  float: left;
+  margin: 10px 10px 10px 10px;
+}
+
+.google-logo {
+  height: 33px;
+  width: auto;
+}
+
+.search-field {
+  width: 570px;
+  float: left;
+  margin: 6px 10px;
+  display: block;
+  overflow: hidden;
+
+}
+
+.search-input {
+  width: 500px;
+  height: 30px;
+}
+
+.search-icon {
+  float: left;
+  margin: -35px 0px 0px 515px;
+}
+
+.magnifying-glass {
+  height: 40px;
+  width: auto;
+
+}
+
+.sign-in {
+  float: right;
+  margin-right: 5px;
+  right: 0;
+}
+
+.sign-in-button {
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  background: #4986EB;
+  border-style: none;
+  border-radius: 2px;
+  padding: 7px 12px;
+  margin: 13px 15px 10px 15px;
+}
+
+.search-navbar-bottom {
+  height: 30px;
+  display: block;
+  overflow: hidden;
+}
+
+.navbar-results-categories {
+  position: absolute;
+}
+
+.navbar-results-categories ul {
+  list-style-type: none;
+  margin: 10px 15px 0px 120px;
+  padding: 0;
+}
+
+.navbar-results-categories li {
+  float: left;
+}
+
+.navbar-results-categories li a {
+  display: block;
+  font-family: Arial;
+  font-size: 10.5px;
+  color: #404040;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+}
+
+.navbar-options {
+  position: absolute;
+}
+
+.navbar-options ul {
+  list-style-type: none;
+  margin: 10px 15px 0px 550px;
+  padding: 0;
+}
+
+.navbar-options li {
+  float: left;
+}
+
+.navbar-options li a {
+  display: block;
+  font-family: Arial;
+  font-size: 10.5px;
+  color: #404040;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+}
